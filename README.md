@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # Plasma Layouts for KDE Plasma
 
 Save the current Plasma layout (panels, widgets, their configuration)
